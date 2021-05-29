@@ -23,6 +23,8 @@ Build image:
 
 Then finally deploy it using docker run:
 
+`docker run -it --rm -p 8080:8080  -e SQLITE_DATABASE=vorbio.db coleifer/sqlite-web`
+
 ![](https://raw.githubusercontent.com/vipulbkota/vor/main/run.PNG)
 
 The `query` tab allows you to execute arbitrary SQL queries on a table. The query results are displayed in a table and can be exported to either JSON or CSV:
