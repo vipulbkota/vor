@@ -16,6 +16,7 @@ The first step is to clone the application into our repsitory
 All dependencies and required files are present in repository our job is to just build the image and deploy the docker.
 
 Build image:
+`docker build -t coleifer/sqlite-web.`
 ![](https://raw.githubusercontent.com/vipulbkota/vor/main/build.PNG)
 
 The `content` tab displays all the table data. Links in the table header can be used to sort the data:
