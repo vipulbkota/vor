@@ -16,7 +16,7 @@ The first step is to clone the application into our repsitory
 All dependencies and required files are present in repository our job is to just build the image and deploy the docker.
 
 Build image:
-![](https://drive.google.com/file/d/17DqhbBQV2aq-m44_-THQJlnq8OTWmKJn/view?usp=sharing)
+![](build.png)
 
 The `content` tab displays all the table data. Links in the table header can be used to sort the data:
 
