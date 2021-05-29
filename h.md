@@ -1,7 +1,6 @@
 
 ![](https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png)
 
-`sqlite-web` is a web-based SQLite database browser written in Python.
 
 Project dependencies:
 
@@ -9,30 +8,6 @@ Project dependencies:
 * [peewee](http://docs.peewee-orm.com)
 * [pygments](http://pygments.org)
 
-### Installation
-
-```sh
-$ pip install sqlite-web
-```
-
-### Usage
-
-```sh
-$ sqlite_web /path/to/database.db
-```
-
-### Features
-
-![](http://media.charlesleifer.com/blog/photos/p1494359468.71.gif)
-
-* Works with your existing SQLite databases, or can be used to create new databases.
-* Add or drop:
-  * Tables
-  * Columns (yes, you can drop and rename columns!)
-  * Indexes
-* Export data as JSON or CSV.
-* Import JSON or CSV files.
-* Browse table data.
 
 ### Screenshots
 
