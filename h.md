@@ -21,9 +21,9 @@ Build image:
 
 ![](https://raw.githubusercontent.com/vipulbkota/vor/main/build.PNG)
 
-The `content` tab displays all the table data. Links in the table header can be used to sort the data:
+Then finally deploy it using docker run:
 
-![](http://media.charlesleifer.com/blog/photos/s1415479502.61.png)
+![](https://raw.githubusercontent.com/vipulbkota/vor/main/run.PNG)
 
 The `query` tab allows you to execute arbitrary SQL queries on a table. The query results are displayed in a table and can be exported to either JSON or CSV:
 
