@@ -11,13 +11,12 @@ Project dependencies:
 
 ### Screenshots
 
-The index page shows some basic information about the database, including the number of tables and indexes, as well as its size on disk:
+The first step is to clone the application into our repsitory
 
-![](http://media.charlesleifer.com/blog/photos/s1415479324.32.png)
+All dependencies and required files are present in repository our job is to just build the image and deploy the docker.
 
-The `structure` tab displays information about the structure of the table, including columns, indexes, and foreign keys (if any exist). From this page you can also create, rename or drop columns and indexes.
-
-![](http://media.charlesleifer.com/blog/photos/s1415479418.23.png)
+Build image:
+![](https://drive.google.com/file/d/17DqhbBQV2aq-m44_-THQJlnq8OTWmKJn/view?usp=sharing)
 
 The `content` tab displays all the table data. Links in the table header can be used to sort the data:
 
